@@ -14,5 +14,5 @@ In this project, we investigate the behavior of the GP Rule and GKL Rule under d
 
 To run the code in this repository, you need the following dependencies:
 
-Python 3.9 - Jupter Notebook/Spider preferred
+Python 3.9 - Jupter Notebook/Spider preferred and 
 Cellpylib package
