@@ -1,2 +1,2 @@
 # Testing-CA-Rules
-We will testing different CA rules under noise conditions on the density classification task
+We will be testing different CA rules under noise conditions on the density classification task
