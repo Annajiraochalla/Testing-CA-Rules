@@ -24,4 +24,4 @@ for value in DC:
     if value:
         count += 1
 
-count/len(DC)
+print("The Accuracy of the GP Rule on the DCT without noise:",count/len(DC))
